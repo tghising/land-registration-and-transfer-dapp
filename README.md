@@ -32,6 +32,9 @@ Step 6. You can see the list of created accounts with ETH value. You can buy the
 
 ![image](https://user-images.githubusercontent.com/38654670/151544091-883ee6e3-7504-4889-995b-72bd3ec2d637.png)
 
+## Smart Contracts 
+You will find the smart contracts in contracts folder and which contains the LandRegistry.sol smart contracts written in ethereum solidity.
+
 ## Front-end using Vue JS
 
 ## 1. Node JS setup
